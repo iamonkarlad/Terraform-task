@@ -1,0 +1,1 @@
+instance-type = "t3.micro"
